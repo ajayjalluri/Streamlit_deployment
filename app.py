@@ -135,13 +135,3 @@ if x1 :
 
 
 
-page_bg_img = '''
-<style>
-body {
-background-image: url("https://github.com/ajayjalluri/Heroku-Flask-Deployment/blob/main/ess.png?raw=true");
-background-size: cover;
-}
-</style>
-'''
-
-#st.markdown(page_bg_img, unsafe_allow_html=True)
